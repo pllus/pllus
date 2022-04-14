@@ -1,25 +1,39 @@
-### Hi there 👋
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+- 🔭 I’m currently working on Building a website for my Portfolio
+- 🌱 I’m currently learning ML/Studying phy for exam
+- :mortar_board:I’m currently Studying in Sirirattanathorn highschool
 
 
 <h1>Education:mortar_board:</h1>
-  <p> Highschool || sirriratnathorn school || Sci-Math </p>
+
+  <table>
+  <thead>
+    <tr>
+      <th class="school-cell">school</th>
+      <th class="code-cell">Class</th>
+      <th class="pop96-cell">time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="firstRow">
+      <td class="country_name-cell">Sirirattanathorn Highschool</td>
+      <td class="code-cell">Sci-Math</td>
+      <td class="pop96-cell">2020-(currently studying)</td>
+    </tr>
+        <tr class="firstRow">
+      <td class="country_name-cell">Phar mae maree Middleschool</td>
+      <td class="code-cell">Eng-chinese</td>
+      <td class="pop96-cell">2017-2019</td>
+    </tr>
+</table>
+ 
 
 
 
-Github Stats
+<h1>Github Stats:chart_with_upwards_trend:</h1>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=PluzNtp&count_private=true&show_icons=true&theme=material-palenight)
+
+
 
 
