@@ -10,6 +10,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![github stats](https://github-readme-stats.vercel.app/api?username=PluzNtp&count_private=true&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/PluzNtp/PluzNtp/blob/output/github-contribution-grid-snake.gif)
+
+
+<h1>Education:mortar_board:</h1>
+  <p> Highschool || sirriratnathorn school || Sci-Math </p>
+
+
+
+Github Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=PluzNtp&count_private=true&show_icons=true&theme=material-palenight)
+
+
