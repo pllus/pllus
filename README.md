@@ -1,9 +1,6 @@
 
 - 🔭 I’m currently working on Building a website for my Portfolio
 - 🌱 I’m currently learning ML/Studying phy for exam
-- :mortar_board:I’m currently Studying in Sirirattanathorn highschool
-
-
 <h1>Education:mortar_board:</h1>
 
   <table>
