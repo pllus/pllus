@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on Building a website for my Portfolio
+- 🔭 I’m currently working on Facial reenactment gans
 - 🌱 I’m currently learning ML/Studying phy for exam
 <h1>Education:mortar_board:</h1>
 
