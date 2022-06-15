@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on Gans model
-- 🌱 I’m currently learning ML/Studying phy for exam
+- 🌱 I’m currently learning
 <h1>Education:mortar_board:</h1>
 
   <table>
