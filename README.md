@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on Gans model
+- Github very un organised theres 3 repo for the same freaking project its a mess
 - 🌱 I’m currently learning
 <h1>Education:mortar_board:</h1>
 
