@@ -12,16 +12,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr class="firstRow">
-      <td class="country_name-cell">Sirirattanathorn Highschool</td>
-      <td class="code-cell">Sci-Math</td>
-      <td class="pop96-cell">2020-(currently studying)</td>
-    </tr>
-        <tr class="firstRow">
-      <td class="country_name-cell">Phar mae maree Middleschool</td>
-      <td class="code-cell">Eng-chinese</td>
-      <td class="pop96-cell">2017-2019</td>
-    </tr>
+
 </table>
  
 
