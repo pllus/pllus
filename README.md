@@ -4,7 +4,8 @@
 
 <h1>Github Stats:chart_with_upwards_trend:</h1>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=PluzNtp&count_private=true&show_icons=true&theme=material-palenight)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
