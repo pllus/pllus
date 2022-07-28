@@ -1,6 +1,6 @@
 
 - Github very un organised theres 3 repo for the same freaking project its a mess
-- 🌱 I’m currently learning
+- 🌱 I’m currently dying
 <h1>Education:mortar_board:</h1>
 
   <table>
