@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hello! I'm Pluz</h3>
-<h6 align="center">
+<h3 align="center"> hacktober stating soon </h3>
 <h1>Github Stats:chart_with_upwards_trend:</h1>
 
 
