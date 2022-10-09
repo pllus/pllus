@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hello! I'm Pluz</h3>
-<h3 align="center"> &#127875; getting ready for hacktober &#127875; </h3>
+<h3 align="center"> &#127875;hacktober &#127875; </h3>
 
 
 
