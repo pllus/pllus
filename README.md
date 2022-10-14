@@ -2,7 +2,7 @@
 
 <h3 align="center">Hello! I'm Pluz</h3>
 <h3 align="center"> &#127875;hacktober &#127875; </h3>
-<h3 >I'm Learning Data science and Ml :3 </h3>
+<h3 >I'm Learning ML and WebDev </h3>
 <h6> I have no idea what im doing but some how it works</h6>
 
 
