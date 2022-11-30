@@ -2,7 +2,7 @@
 
 <h3 align="center">Hello! I'm Pluz</h3>
 
-<h3 align="center">I'm Learning ML and WebDev </h3>
+<h4 align="center">I'm Learning ML and WebDev </h4>
 
 <h6 align="center"> Forgive me for my spagetthi code</h6>
 
