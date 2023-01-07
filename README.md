@@ -7,7 +7,7 @@
 <h6> Forgive me for my spagetthi code</h6>
 <p>
   <a href="https://youtu.be/3ijkvUYwJhU">
-    <img width=300 height=300 src=https://64.media.tumblr.com/ab966e78d2645042c6ac2c6be9a79da4/e468ec313ed2064e-4d/s400x600/0e9a7adf034e927b669c83eaa0820192c438db8e.gifv/>
+    <img width=300 height=300 src='https://media.tenor.com/nQbnkbBw3EUAAAAC/bocchi-bocchi-the.gif'/>
   </a>
 </p>
 
