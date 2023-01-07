@@ -5,6 +5,11 @@
 <h4>I'm Learning ML and WebDev </h4>
 
 <h6> Forgive me for my spagetthi code</h6>
+<p>
+  <a href="https://youtu.be/3ijkvUYwJhU">
+    <img width=300 height=300 src=https://media.tenor.com/0yAbWNOq4lkAAAAC/nijika-ijichi-ijichi-nijika.gif alt="Nijika drumming" />
+  </a>
+</p>
 
 <h1>Github Stats:chart_with_upwards_trend:</h1>
 
