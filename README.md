@@ -3,7 +3,7 @@
 <h3>Hello! I'm Pluz</h3>
 
 <h4>I'm Mainly Learning ML</h4>
-
+<h6>I'm gonna be studying Computer engineering @ Ku Bangkhean University</h6>
 <h6> Forgive me for my spagetthi code</h6>
 
 <p>
