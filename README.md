@@ -3,8 +3,12 @@
 <h3>Hello! I'm Pluz</h3>
 
 <h4>I'm Mainly Learning ML</h4>
-<h6>I'm gonna be studying Computer engineering @ Ku Bangkhean University soon</h6>
+<h6>Studying High school @ Sirirattanathorn</h6>
+<h6>I'm gonna be studying Computer engineering @ Ku Bangkhean University later this year</h6>
 <h6> Forgive me for my spagetthi code</h6>
+
+
+
 
 <p>
   <a href="https://youtu.be/3ijkvUYwJhU">
