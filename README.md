@@ -1,6 +1,6 @@
 
 
-<h3>Hello! I'm Pluz</h3>
+<h3>Hello! I'm Plus</h3>
 
 
 <h6>Studying High school @ Sirirattanathorn</h6>
