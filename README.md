@@ -4,4 +4,4 @@
 
 
 <h6>Studying High school @ Sirirattanathorn</h6>
-<h6> Forgive me for my spagetthi code</h6>
+<h6>Mainly learning ML</h6>
