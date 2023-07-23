@@ -2,7 +2,7 @@
 <h3 >I'm Learning Machine Learning  </h3>
 <h6> Forgive me for my spagetthi code</h6>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{300151-นิธิศรัฎฐ์}/competition/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{pluz123}/competition/light)
 <h1>Github Stats:chart_with_upwards_trend:</h1>
 
 
