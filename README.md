@@ -3,6 +3,9 @@
 <h6> Forgive me for my spagetthi code</h6>
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/discussion)
 
 <h1>Github Stats:chart_with_upwards_trend:</h1>
 
