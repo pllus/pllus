@@ -14,8 +14,8 @@
 <div align="center" ><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9a1vfoe01040gkwzxgwkdv9/stats?cursusId=3&coalitionId=undefined" alt="nphuttip's 42 stats" /></a></div>
 
 <h1 align="center">Kagggle</h1>
-
+<div align="center">
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/discussion)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/discussion)</div>
