@@ -2,7 +2,7 @@
 <h3 >I'm Learning Machine Learning  </h3>
 <h6> Forgive me for my spagetthi code</h6>
 
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{pluz123})
+![pluz123](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{pluz123})
 
 <h1>Github Stats:chart_with_upwards_trend:</h1>
 
