@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center" >Github Stats:chart_with_upwards_trend:</h1>
+<h1 align="center" >&#129497;Github Stats:chart_with_upwards_trend:</h1>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
