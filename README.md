@@ -15,6 +15,7 @@
 
 <h1 align="center">Kagggle</h1>
 <div align="center">
+  
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/notebook)
