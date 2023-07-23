@@ -2,6 +2,9 @@
 <h3 >I'm Learning Machine Learning  </h3>
 <h6> Forgive me for my spagetthi code</h6>
 
+
+<h1>Kagggle</h1>
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pluz123/notebook)
