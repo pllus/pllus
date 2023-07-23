@@ -1,6 +1,5 @@
 <h3 align="center">Hello! I'm Pluz</h3>
 <h3 align="center" >I'm Learning Machine Learning  </h3>
-<h6 align="center"> Forgive me for my spagetthi code</h6>
 
 
 <h1>Kagggle</h1>
