@@ -5,6 +5,7 @@
 
 <h1>Github Stats:chart_with_upwards_trend:</h1>
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
