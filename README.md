@@ -1,6 +1,6 @@
 <h1 align="center" >About me</h1>
 <h3 align="center">Hello! I'm Pluz</h3>
-<h3 align="center" >Xomputer en freshman @ Ku bangkhen  </h3>
+<h3 align="center" >Computer en freshman @ Ku bangkhen  </h3>
 
 
 
