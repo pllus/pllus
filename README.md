@@ -1,5 +1,5 @@
 <h1 align="center" >About me</h1>
-<h3>Kaggle:https://www.kaggle.com/pluz123/competitions?tab=completed</h3>
+<h3>Kaggle:</h3><a href="https://www.kaggle.com/pluz123/competitions?tab=completed">pluz123</a>
 <h1 align="center" >Github Stats</h1>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
