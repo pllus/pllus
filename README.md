@@ -1,7 +1,7 @@
 <h1 align="center" >About me</h1>
 <h3>Kaggle: <a href="https://www.kaggle.com/pluz123/competitions?tab=completed">  pluz123</a></h3>
 
-<h3>Resume: <a href="https://drive.google.com/file/d/1-YWYrK72Trpe7KK1BuX6rwC-ptRZ3Qn2/view?usp=sharing">  Pdf link</a></h3>
+<h3>Resume: <a href="https://drive.google.com/file/d/1-YWYrK72Trpe7KK1BuX6rwC-ptRZ3Qn2/view?usp=sharing">  Pdf link </a></h3>
 <h1 align="center" >Github Stats</h1>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
